@@ -1,8 +1,8 @@
 # ISM-RP-Danmaku
 A danmaku game based on the ISM server's RP.
 
-## Members
-Sudi, Corgi, Azy, Emia
+## Contributors
+Sudi, Corgi, Azy, Emia, Yatta
 
 ## Resources
 [Danmakufu Doc](https://docs.google.com/document/d/17KstydikqgpIhs0g5s9NYMYPZmKqoPFw4NHe5TLdkTE/edit?usp=sharing)
